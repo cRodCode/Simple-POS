@@ -21,4 +21,4 @@ Please follow the instructions below and fill in the information requested when 
 3. pip install bcrypt
 
 ## Run Instructions
-1. 
+1. After installing dependices defualt login is Username:admin Password:password
