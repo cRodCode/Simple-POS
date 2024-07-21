@@ -1,0 +1,5 @@
+username:test|password:$2b$12$zOpHwnRFw1ONf7LeyS0FHO3WjFXuZrNLw5lP.XZsLMJLBHF4KSTE6
+username:test2|password:$2b$12$U0tbOHt0u3tEojeT3b0rFODyk5V/hW.ZX7PcRvxC/WFGbDPYn8ce.
+username:nathalymerida|password:$2b$12$A5GnOQKgfS8IVRfrFC0x5eOpwpQsNiVj4z2J2NPVPyt4PQ7KET1lC
+username:koko|password:$2b$12$ArXIwB7QxuziMb2WxS2TpuQa60hzfyySyL9VyhxOCfUwsH2NHY0CC
+username:nmerida|password:$2b$12$saPXVYD6IqyD1F2Wkqw.ZOIXKAyNwgFpZMhh5jA6H7hSpHtgjnHVS

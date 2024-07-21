@@ -1,0 +1,62 @@
+1 Medium Pizza 12" 
+2 Large Pizza 14" 140, y=0)
+3 X Large Pizza 16"
+4 Cheese\nCalzone\n$11.95
+5 New York\nStromboli\n$11.95
+6 Veggies\nStromboli\n$13.95
+7 Chicken Wings\n(8 pc)\n$13.95
+8 Chicken Wings\n(12 pc)\n$16.95
+10 Pretzel Pizza\nCheese Only\n$7.99
+11 Pretzel Pizza\nCheese & Pepperoni\n$8.99
+12 Pretzel Roll\n(1 pc)\n$4.99
+13 Tater Tots\n(10 pc)\n$5.99
+14 Cheesecake\nPlain\n$4.99
+15 Cheesecake\nChocolate Drizzle\n$5.99
+#
+# Medium Pizzas
+#
+Cosa\nNostra\n$16.95
+Bianca\n$16.95
+Clam\nCasino\n$16.95
+Hawaiian\n$14.95
+California\n$16.95
+Pesto\n$16.95
+Louisiana\n$16.95
+Napoli\n$16.95
+Quattro\nStagioni\n$16.95
+Mozzarella\n$10.95
+New York\nSpecial\n$16.95
+Vegetarian\nSpecial\n$16.95
+Meat\nLovers\n$16.95
+#
+# Large Pizzas
+#
+Cosa Nostra $18.95
+Bianca$18.95
+Clam Casino\n$18.95
+Hawaiian\n$18.95
+California\n$18.95
+Pesto\n$18.95
+Louisiana\n$18.95
+Napoli\n$18.95
+Quattro Stagioni\n$18.95
+Mozzarella\n$11.95
+New York Special\n$18.95
+Vegetarian Special\n$18.95
+Meat Lovers\n$18.95
+#
+# ALL X-LARGE PIZZAS
+#
+Cosa\nNostra\n$21.95
+Bianca\n$21.95
+Clam\nCasino\n$21.95
+Hawaiian\n$19.95
+California\n$21.95
+Pesto\n$21.95
+Louisiana\n$21.95
+Napoli\n$21.95
+Quattro\nStagioni\n$21.95
+Mozzarella\n$17.95
+New York\nSpecial\n$21.95
+Vegetarian\nSpecial\n$21.95
+Meat\nLovers\n$21.95
